@@ -1,0 +1,8 @@
+{
+    "use_proxies": "true",
+    "proxy_file": "",
+    "threads": 50,
+    "id_file": "checklist_27k.txt",
+    "valid_file": "valids.txt",
+    "bad_file": "invalids.txt"
+}
